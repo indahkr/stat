@@ -1,2 +1,0 @@
-# stat
-everything about data
